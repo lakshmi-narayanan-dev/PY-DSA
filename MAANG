@@ -6,3 +6,9 @@ CAP Theorem [Consistency, Availability and partial tolerance]
 Horizontal + Vertical Scaling
 Caching, Design Patterns and Principles
 Open source contribute
+
+
+-----------------------------------
+DSA 
+-----------------------------------
+Data in a structure form , helps in mainpulating segregating request faster.
