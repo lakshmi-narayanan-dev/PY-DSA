@@ -1,3 +1,10 @@
+-----------------------
+Program vs Script
+-----------------------
+Programs alone to generate outputs - Java , Py
+Scripts are sub-programs depending on other programs to show output
+
+
 -------------------------------
 What & Why Python
 -------------------------------
